@@ -13,7 +13,7 @@
 
 ### crawler爬蟲
 
-* 使用 python - scrapy framework
+* 使用 python - [scrapy framework](https://github.com/scrapy/scrapy)
 * 爬取104公司及Qollie(天眼通)評論資料
 * 存入MySQL資料庫
 
